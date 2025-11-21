@@ -33,8 +33,8 @@ pip install torch
 
 # How to Run
 
-Run the program using:
-python echolang.py
+Run the program using: <br>
+<b> python echolang.py </b>
 
 • Supported Languages
 The following translation/speech languages are supported:
